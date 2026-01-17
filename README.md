@@ -59,7 +59,7 @@ These findings confirm that the substantially lower churn rates observed among l
 ## Repository Contents
 
 - `Causal_Impact_of_Contract_Type_on_Customer_Churn.ipynb` — Full analysis and code  
-- `report/` — Final project report  
+- `report/` — A detailed written report describing the causal framework, identification assumptions, diagnostics, and robustness checks
 - `slides/` — A concise presentation summarizing the business motivation, causal framework, and key results
 
 ---
